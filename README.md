@@ -2,3 +2,5 @@
 ## CUNY SPS BUS336 Python for Business Analytics
 
 Term project for BUS336 Python for Business Analytics (Special Topics in Business)
+
+Michael Horty Final Project for BUS 336
